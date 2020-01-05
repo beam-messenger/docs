@@ -1,15 +1,17 @@
 # Beam Messenger
-The world of messengers is populous, yet we are unable to find a satisfactory choice. The feature set we are interested in is:
-* Open source client and server
-* Federated and deployable on-premise
-* Anonymous; identity not based on phone number or other outside identity
-* End-to-end encrypted private and group messages
-* Multi-device messaging with support for all major platforms
-* Search
+Messengers are complicated and diverse, and it takes more than a quick user test to tell whether a messenger is right for you. We evaluate messengers across many axes, including:
+* The [features](taxonomy/features.md) they offer
+* Whether they're [open source](taxonomy/open-source.md)
+* How [secure](taxonomy/security.md) they are
+* The [scope](taxonomy/scope.md) of user interactions
+* How they're [funded](taxonomy/funding.md)
 
-Additionally, we have the following design philosophies:
-* Simple UX
-* Native-level performance and power consumption
+To us, the perfect messenger:
+* Has file sharing, search, and teams
+* Is available on all major platforms
+* Has an open source client and server
+* Is end-to-end encrypted and anonymous
+* Has a simple, polished UX
 
 ## Existing Solutions
 Digital Communications Protocols presents a breakdown of the features of 80 products. Of those, only 4 fulfill our desired feature set:
