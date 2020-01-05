@@ -11,6 +11,7 @@ To us, the perfect messenger:
 * Is available on all major platforms
 * Has an open source client and server
 * Is end-to-end encrypted and anonymous
+* Isn't siloed
 * Has a simple, polished UX
 
 ## Existing Solutions
